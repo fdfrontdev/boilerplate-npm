@@ -13,5 +13,6 @@
 	},
 	"author": "fdfrontdev",
 	"description": "learning backend and api",
-	"keywords": ["freecodecamp","backend","api"]
+	"keywords": ["freecodecamp","backend","api"],
+	"license":"MIT"
 }
