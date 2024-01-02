@@ -12,5 +12,6 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-npm.git"
 	},
 	"author": "fdfrontdev",
-	"description": "learning backend and api"
+	"description": "learning backend and api",
+	"keywords": ["freeCodeCamp","backend","api"]
 }
